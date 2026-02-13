@@ -21,7 +21,7 @@ body {
 .page {
   margin: 0;
   font-family: Avenir, system-ui, sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   box-sizing: border-box;
   color: #3d4e61;
 }
@@ -68,7 +68,7 @@ body {
 
 .search--big .search__input {
   height: 70px;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 16px;
   padding-left: 62px;
   line-height: 22px;
@@ -78,7 +78,7 @@ body {
 
 .search--small .search__input {
   height: 42px;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 14px;
   padding-left: 33px;
   padding-top: 12px;
